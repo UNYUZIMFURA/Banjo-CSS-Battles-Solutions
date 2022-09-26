@@ -1,0 +1,55 @@
+body {
+  background: #6592cf;
+}
+
+.roof {
+  height: 0;
+  width: 0;
+  margin: 0 auto;
+  margin-top: 13%;
+  border-left: 6.25rem solid #6592cf;
+  border-right: 6.25rem solid #6592cf;
+  border-bottom: 6.25rem solid #243d83;
+}
+
+.main-wall {
+  height: 6.2rem;
+  width: 9.4rem;
+  position: relative;
+  margin: 0 auto;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background: #243d83;
+}
+
+.costra {
+  height: 0.6rem;
+  width: 66.7%;
+  position: absolute;
+  top: -0.33rem;
+  left: 16.6%;
+  border-radius: 100px;
+  background: #eeb850;
+}
+
+.door {
+  height: 50%;
+  width: 32.9%;
+  position: absolute;
+  left: 33.4%;
+  bottom: 0;
+  border-top-left-radius: 19.6%;
+  border-top-right-radius: 19.6%;
+  background: #eeb850;
+}
+
+/* 
+HTML PART ~ Uncomment it if you want to test
+The color provided was not a 100% similar to the needed!
+So, This house will be a 99.8% match
+*/
+/* <div class="roof"></div>
+  <div class="main-wall">
+      <div class="costra"></div>
+      <div class="door"></div>
+  </div> */
