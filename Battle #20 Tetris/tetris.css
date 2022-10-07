@@ -1,0 +1,156 @@
+/* <style> */
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background: #173889;
+ }
+
+  .main-holder {
+      height: 100vh;
+      width: 74.6%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+
+  .sub-1 {
+      height: 32%;
+      width: 32.5%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      margin-left: 51%;
+  }
+
+  .sub-2 {
+      height: 32%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+
+  .sub-3 {
+      height: 32%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+  }
+
+  .s-1 {
+      height: 46%;
+      width: 47%;
+      margin-left: 52.9%;
+      background: #ee4f4f;
+  }
+
+  .s-2 {
+      height: 100%;
+      width: 46.5%;
+      background: #EE4F63;
+  }
+
+  .s-3 {
+      height: 100%;
+      width: 46.5%;
+      background: #EE4F63;
+  }
+
+  .s-holder-1 {
+      height: 47%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .in-sub-1 {
+      height: 46%;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .in-sub-2 {
+      height: 46%;
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .square-1 {
+      height: 100%;
+      width: 15%;
+      background: #EE4F63;
+  }
+
+  .square-2 {
+      height: 100%;
+      width: 15%;
+      background: #2CE1EA;
+  }
+
+  .square-3 {
+      background: #B069F7;
+      height: 100%;
+      width: 15%;
+  }
+
+  .square-4 {
+      height: 100%;
+      width: 15%;
+      background: #F8DA37; 
+  }
+
+  .square-5 {
+      height: 100%;
+      width: 15%; 
+      background: #173889;
+  }
+  
+/* </style> */
+
+/* Uncomment all commented codes to work */
+
+/* <div class="main-holder">
+  <div class="sub-1">
+    <div class="s-1"></div>
+    <div class="s-holder-1">
+      <div class="s-2"></div>
+      <div class="s-3"></div>
+    </div>
+  </div>
+  <div class="sub-2">
+    <div class="in-sub-1">
+      <div class="square-4"></div>
+      <div class="square-4"></div>
+      <div class="square-5"></div>
+      <div class="square-1"></div>
+      <div class="square-5"></div>
+      <div class="square-5"></div>
+    </div>
+    <div class="in-sub-2">
+      <div class="square-4"></div>
+      <div class="square-4"></div>
+      <div class="square-1"></div>
+      <div class="square-5"></div>
+      <div class="square-3"></div>
+      <div class="square-5"></div>
+    </div>
+  </div>
+  <div class="sub-3">
+    <div class="in-sub-1">
+      <div class="square-1"></div>
+      <div class="square-1"></div>
+      <div class="square-1"></div>
+      <div class="square-2"></div>
+      <div class="square-3"></div>
+      <div class="square-3"></div>
+    </div>
+    <div class="in-sub-2">
+      <div class="square-4"></div>
+      <div class="square-2"></div>
+      <div class="square-2"></div>
+      <div class="square-2"></div>
+      <div class="square-3"></div>
+      <div class="square-2"></div>
+    </div>
+  </div>
+</div> */
